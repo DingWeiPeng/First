@@ -1,4 +1,6 @@
-The implementation of the Transformer Decoder Only model includes support for Key-Value (KV) Caching and absolute positional encoding. The entire coding process was guided by Figure 2 from the seminal paper "Attention is All You Need."
+The implementation of the Transformer Decoder Only model includes support for Key-Value (KV) Caching and absolute positional encoding. The entire coding process was guided by Figure 1 from the seminal paper "Attention is All You Need."
+![image](https://github.com/user-attachments/assets/aa775c98-05aa-4ea0-8831-a0b1e1d973d2)
+
 
 At the conclusion of the program, the Transformer Decoder Only model was employed for autoregressive causal sequence prediction, with a comparative analysis conducted between sequences generated using and without utilizing KV CACHE.
 
