@@ -3,7 +3,8 @@
 # Masked Multi-Head Attention, Add&Norm,
 # Multi-Head Attention, Add&Norm
 # Feed Forward, Add&Norm
-from Prompt.model.attention import *
+# Realized by Dingwei peng, whose email is jackdawsonabc@163.com in 02/11.2025. Welcome to concate me.
+from attention import *
 
 
 class PositionalEncoding(nn.Module):
