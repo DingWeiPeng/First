@@ -238,6 +238,5 @@ def run_tests():
         inference_test()
 
 
-# 至于怎么实现KV_Cache元素，那就需要
 if __name__ == "__main__":
     run_tests()
