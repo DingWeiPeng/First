@@ -3,7 +3,7 @@ import math
 import torch
 import torch.nn as nn
 # 实现多头注意力以及自注意力机制, 并且实现kv cache
-
+# Realized by Dingwei peng, whose email is jackdawsonabc@163.com in 02/11.2025. Welcome to concate me.
 
 def clones(module, N):
     "Produce N identical layers"
